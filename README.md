@@ -132,4 +132,3 @@ If you want to change how often the script checks for `plasmashell`, you can edi
 ## License
 
 This project is licensed under the MIT License.
-```
