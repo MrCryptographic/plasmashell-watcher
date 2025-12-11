@@ -63,7 +63,8 @@ For a "set it and forget it" solution, you can run the script as a systemd user 
 It's a good practice to store user scripts in `~/.local/bin`. If this directory doesn't exist, create it:
 
 ```sh
-mkdir -p ~/.local/bin```
+mkdir -p ~/.local/bin
+```
 
 Now, move the script into this directory:
 
